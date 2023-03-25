@@ -1,1 +1,1 @@
-# nomadecoder-meme-maker
+# 노마드코더 그림판 & 밈 만들기
